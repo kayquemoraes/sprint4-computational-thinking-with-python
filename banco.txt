@@ -1,0 +1,1 @@
+{"usuarios": {"nomes": [], "senhas": [], "saldo": []}, "materiais": {"material": ["plastico", "metal", "vidro", "papel"], "codigo": [["000a", "000c", "0005"], ["000b", "0004"], ["0001", "0002"], ["000d", "0003"]], "preco": [5, 10, 15, 20]}}
